@@ -28,8 +28,11 @@
     "sw-toolbox": "3.4.0",
     "zone.js": "^0.8.4"
   },
+  "config": {
+    "ionic_src_dir": "src/subdirectory"
+  },
   "devDependencies": {
-    "@ionic/app-scripts": "1.3.0",
+    "@ionic/app-scripts": "1.3.4",
     "typescript": "~2.2.1"
   },
   "cordovaPlugins": [
